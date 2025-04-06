@@ -63,5 +63,3 @@ Here are the key requirements for a **User Management System** from a customer's
 - Responsive UI (works on desktop/mobile).  
 - Database backups for user data.  
 - GDPR compliance (data deletion requests).  
-
-Would you like any modifications or additions to these requirements?
